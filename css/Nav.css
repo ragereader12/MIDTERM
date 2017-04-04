@@ -1,0 +1,19 @@
+.dropcap, .dropcap-green, .dropcap-black {
+  display: block;
+  float: left;
+  font-size: 1.25rem;
+  line-height: 2rem;
+  margin: 0.25rem 0.5rem 0 0;
+  text-align: center;
+  width: 2rem; }
+
+  .dropcap.round, .round.dropcap-green, .round.dropcap-black {
+    border-radius: 50%; }
+
+    .dropcap-green {
+      background: #aec71e;
+      color: #FFF; }
+
+      .dropcap-black {
+        background: #000;
+        color: #FFF; }
